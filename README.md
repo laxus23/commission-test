@@ -9,6 +9,7 @@ grappa
 
 Setup
 git clone https://github.com/laxus23/python_testing_framework_bdd.git
+
 config.json
 Add actual passwords for all tested environments
 
