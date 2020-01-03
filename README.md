@@ -3,7 +3,6 @@
 This is a simply template of BDD framework in Python (still being developed). Following stack is using:
 
 behave
-allure
 selenium
 grappa
 
